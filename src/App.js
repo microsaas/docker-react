@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and Dominate the World!
+          I was changed on the homepage-intro branch.
         </a>
       </header>
     </div>
